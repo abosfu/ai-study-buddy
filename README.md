@@ -58,8 +58,10 @@ pip freeze > requirements.txt
 
 ### 4. Set Up Your OpenAI API Key
 Create a .env file in the root of your project and add the following:
+```
 
 OPENAI_API_KEY=your-api-key-here
+```
 
 Replace your-api-key-here with your actual OpenAI API key. If you don’t have an API key, you can get one from OpenAI’s platform.
 
