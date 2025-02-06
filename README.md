@@ -75,5 +75,6 @@ python study_buddy.py
 
 ### 6. Example Interaction  
 
-Ask me anything: What is an atom?
+Ask me anything: What is an atom?  
+
 AI Study Buddy: An atom is the smallest unit of ordinary matter that forms a chemical element. It consists of a nucleus containing protons and neutrons, surrounded by electrons.
